@@ -11,7 +11,7 @@
   font-style: normal;
 
 }
- 
+
 [data-icon]:before {
   font-family: "linea-basic-10" !important;
   content: attr(data-icon);
